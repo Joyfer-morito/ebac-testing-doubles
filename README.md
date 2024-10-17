@@ -1,2 +1,18 @@
-# ebac-testing-doubles
-Este repositório apresenta um projeto sobre Testing Doubles 🔍, desenvolvido no curso de Engenharia de Qualidade de Software da EBAC. Vamos explorar as técnicas de TDD (Test-Driven Development) 📈 e como essas abordagens podem transformar nossos testes automatizados! ⚙️💡
+## O que Tem Aqui
+
+- **controller.js**: Implementação da lógica de controle da aplicação.
+- **controller.test.js**: Testes automatizados para validar o comportamento do controlador.
+- **database.js**: Configurações e interações com o banco de dados.
+- **package.json** e **package-lock.json**: Gerenciamento das dependências do projeto.
+- **.gitignore**: Lista de arquivos e pastas que devem ser ignorados pelo Git.
+- **README.md**: Documentação do projeto.
+
+## O que Você Precisa
+
+- **Node.js**: Ambiente de execução JavaScript para rodar o projeto.
+- **npm**: Gerenciador de pacotes para instalar as dependências.
+
+## Como Usar
+
+1. **Clone o repositório**: 
+git clone 
